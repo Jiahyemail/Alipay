@@ -117,28 +117,28 @@ if __name__ == '__main__':
 
 
 ##项目结构
-hy_alipay_sdk:
-│
-│
-│  MANIFEST.in
-│  README
-│  README.md
-│  requirements.txt
-│  setup.cfg
-│  setup.py
-│  test-requirements.txt
-│  tox.ini
+hy_alipay_sdk:  
 │  
-│      
-├─hy_alipay_sdk
-│      aliapy_api.py
-│      headers.py
-│      httpclient.py
-│      utils.py
-│      zipfileadd.py
-│      __init__.py
-│      
-└─tests
-        cli.py
-        _test.py
-        __init__.py
+│  
+│  MANIFEST.in  
+│  README  
+│  README.md  
+│  requirements.txt  
+│  setup.cfg  
+│  setup.py  
+│  test-requirements.txt  
+│  tox.ini  
+│    
+│        
+├─hy_alipay_sdk  
+│      aliapy_api.py  
+│      headers.py  
+│      httpclient.py  
+│      utils.py  
+│      zipfileadd.py  
+│      __init__.py  
+│        
+└─tests  
+        cli.py  
+        _test.py  
+        __init__.py  
